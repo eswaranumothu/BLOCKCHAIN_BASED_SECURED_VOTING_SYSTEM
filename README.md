@@ -105,7 +105,6 @@ Intuitive UI for voters to cast votes and view candidate information.
         truffle migrate
 
 You're all set! The Voting app should be up and running now at http://localhost:8080/.<br>
-For more info about usage checkout [YouTube video](https://www.youtube.com/watch?v=a5CJ70D2P-E).
 
 ## Code Structure
 
